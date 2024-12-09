@@ -1,5 +1,5 @@
 /**
- * Custom JavaScript for MindTheGab Theme
+ * Custom JavaScript for PKFotodesign Theme
  * Description: Custom JS functions for the theme
  * Author: Paul Kazusek
  */
