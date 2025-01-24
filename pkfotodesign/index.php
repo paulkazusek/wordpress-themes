@@ -8,8 +8,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="pkfotodesign" >
     <meta name="description" content="<?php bloginfo( 'description' ); ?>">
+    <?php wp_head(); ?>
 </head>
-<body>
-    <h1>Hello WordPress<h1> 
+<body <?php body_class(); ?>>
+    <?php 
+    if (function_exists( 'wp_body_open' )) {
+        wp_body_open();
+    } 
+    ?>
+
+    <h1>Hello WordPress</h1>
+    
+
+    <?php wp_footer(); ?>
 </body>
 </html>

@@ -4,6 +4,6 @@
  * Author: Paul Kazusek
  */
 
-document.addEventListener('DOMContentLoaded', function () {
-    console.log('JavaScript-Datei erfolgreich geladen!');
+document.addEventListener( 'DOMContentLoaded', function () {
+    console.log( 'JavaScript-Datei erfolgreich geladen!' );
 });
