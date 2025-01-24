@@ -6,7 +6,7 @@
     <meta charset="<?php bloginfo( 'charset' ); ?>">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="" >
+    <meta name="author" content="pkfotodesign" >
     <meta name="description" content="<?php bloginfo( 'description' ); ?>">
 </head>
 <body>
